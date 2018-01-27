@@ -10,7 +10,7 @@
 
 **useage**
 
-  * git clone git@github.com:labike/react-app.git
+  * git clone ![repo](git@github.com:labike/react-app.git)
   * npm install or yarn add
   * net start mongodb
   * if dev env, npm start && npm run server
